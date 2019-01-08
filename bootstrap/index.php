@@ -22,10 +22,8 @@
 			</button>
 		</div>
                 
-                <div>
-                    Adicinado aqui
-                </div>
-		
+
+                
 
 
 
